@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22310.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3FDD7BB6-A83E-4CB9-BD96-414230DC11D5}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Bestla.Architecture", "src\Bestla.Architecture\Bestla.Architecture.kproj", "{31CC0BA8-D7E0-4897-A043-4177AF024637}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{43859FA6-EF67-4D91-8455-44E7E6F67FED}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31CC0BA8-D7E0-4897-A043-4177AF024637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31CC0BA8-D7E0-4897-A043-4177AF024637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31CC0BA8-D7E0-4897-A043-4177AF024637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31CC0BA8-D7E0-4897-A043-4177AF024637}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{31CC0BA8-D7E0-4897-A043-4177AF024637} = {3FDD7BB6-A83E-4CB9-BD96-414230DC11D5}
+	EndGlobalSection
+EndGlobal
